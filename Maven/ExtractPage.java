@@ -33,7 +33,7 @@ public class ExtractPage {
     }
 
     @Test
-    public void verifyLetsTalkRedButton() {
+    public void verifyLetsTalkButtons() {
         String expectedText = "LET'S TALK";
         String actualText = "";
         String otherOccurrence = "";
